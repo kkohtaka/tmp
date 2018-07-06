@@ -12,5 +12,5 @@ func firstFunction() {
 }
 
 func secondFunction() {
-	fmt.Println("This is the second fucntion.")
+	fmt.Println("This is the second function.")
 }
