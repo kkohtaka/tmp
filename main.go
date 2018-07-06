@@ -8,7 +8,7 @@ func main() {
 }
 
 func firstFunction() {
-	fmt.Println("This is the fist function.")
+	fmt.Println("This is the first function.")
 }
 
 func secondFunction() {
